@@ -1,0 +1,8 @@
+512	% Page size
+32	% Memory size in frames
+8	% Quantum
+4	% Numr of proccess
+data1_p1.txt
+data1_p2.txt
+data1_p3.txt
+data1_p4.txt
